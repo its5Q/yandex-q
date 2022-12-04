@@ -1,5 +1,5 @@
 # yandex-q
-Scripts that were used to scrape and process data from Yandex.Q. Some scripts are messy, but it does the job.
+Scripts that were used to scrape and process data from Yandex.Q. Some scripts are messy, but they get the job done.
 
 # Scripts used
 - `parse_questions_search.py` - to parse questions by searching all 4 letter combinations, because of the 1000 items limit per search
